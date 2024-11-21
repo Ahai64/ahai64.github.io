@@ -7,9 +7,9 @@ title: Windows 和 Office 激活：免费，快速，永久
 
 1. 右键点击开始按钮，打开 PowerShell（注意不是cmd）
 2. 复制以下代码并粘贴进去，按回车。
-    ```shell
-    irm https://get.activated.win | iex
-    ```
+```shell
+irm https://get.activated.win | iex
+```
 3. 你会看到一系列激活选项
     ![](/assets/20240719.png)
 4. 按你需要激活的选项就行了：
